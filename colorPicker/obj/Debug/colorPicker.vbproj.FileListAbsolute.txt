@@ -1,0 +1,12 @@
+D:\Programming\Level 2\colorPicker\colorPicker\bin\Debug\colorPicker.exe.config
+D:\Programming\Level 2\colorPicker\colorPicker\bin\Debug\colorPicker.exe
+D:\Programming\Level 2\colorPicker\colorPicker\bin\Debug\colorPicker.pdb
+D:\Programming\Level 2\colorPicker\colorPicker\bin\Debug\colorPicker.xml
+D:\Programming\Level 2\colorPicker\colorPicker\obj\Debug\colorPicker.vbprojAssemblyReference.cache
+D:\Programming\Level 2\colorPicker\colorPicker\obj\Debug\colorPicker.frmColorPicker.resources
+D:\Programming\Level 2\colorPicker\colorPicker\obj\Debug\colorPicker.Resources.resources
+D:\Programming\Level 2\colorPicker\colorPicker\obj\Debug\colorPicker.vbproj.GenerateResource.cache
+D:\Programming\Level 2\colorPicker\colorPicker\obj\Debug\colorPicker.vbproj.CoreCompileInputs.cache
+D:\Programming\Level 2\colorPicker\colorPicker\obj\Debug\colorPicker.exe
+D:\Programming\Level 2\colorPicker\colorPicker\obj\Debug\colorPicker.xml
+D:\Programming\Level 2\colorPicker\colorPicker\obj\Debug\colorPicker.pdb
